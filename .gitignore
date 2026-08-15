@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+
+# Data directory (keep raw/sensitive data off GitHub)
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# MLflow runs
+mlruns/
+
+# Jupyter / IDEs
+.ipynb_checkpoints/
+.vscode/

@@ -1,0 +1,12 @@
+# Data & Math
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# SEC EDGAR Ingestion
+sec-edgar-downloader>=5.0.0
+
+# Development & Notebooks
+jupyter>=1.0.0
+pytest>=7.0.0
