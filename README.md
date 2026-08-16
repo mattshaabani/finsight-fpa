@@ -5,8 +5,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458.svg)](https://pandas.pydata.org/)
 [![SEC EDGAR](https://img.shields.io/badge/Data-SEC_EDGAR_API-green.svg)](https://www.sec.gov/edgar/sec-api-documentation)
 
-**Live App:** [Link to your deployed Streamlit app here]
-
 ## 🎯 Executive Summary
 FInsight is an end-to-end Financial Planning & Analysis (FP&A) data pipeline and interactive dashboard. It bridges the gap between raw financial accounting data and executive decision-making by automating data extraction, calculating margin efficiencies, performing variance analysis, and simulating future financial scenarios.
 
